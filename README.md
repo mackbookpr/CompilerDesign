@@ -26,6 +26,3 @@ It Follows following features:
 
 . Python Programming will be used.
 
-4.
-
-
