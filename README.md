@@ -3,6 +3,8 @@ Major : IOT
 SAP-ID : 500092026
 Instructor Name: Saurabh Shanu
 
+Objective: To make a compiler of my own.
+Motivation: Was interested in learning.
 
 1.Name of the language chosen:
 
